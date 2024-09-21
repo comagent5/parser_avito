@@ -1,5 +1,10 @@
 # Avito Parser
 
+Источник: Ищем халяву на Авито с помощью Python и Selenium. [YouTube](https://www.youtube.com/watch?v=pbzPkZcVOx0)
+от автора [The ParseHub](https://www.youtube.com/@the_parse_hub)
+
+
+
 Находит объявления на avito.ru по ключевым словам. Присылает уведомления в telegram и сохраняет результат в csv файл.
 
 ### Другие парсеры Авито
